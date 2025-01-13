@@ -1,4 +1,1 @@
-image.png
-
-
-![Alt text](path/to/image.png)
+![My Image](image.png)
